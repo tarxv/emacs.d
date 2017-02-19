@@ -33,7 +33,7 @@
 (setq cua-enable-cua-keys t)
 (setq desktop-save-mode nil)
 (setq-default fill-column 80)
-(setq flycheck-gcc-language-standard "c11")
+(setq flycheck-gcc-language-standard "gnu11")
 (setq flycheck-python-pycompile-executable "python3")
 (setq org-src-fontify-natively t)
 (setq org-src-preserve-indentation t)
